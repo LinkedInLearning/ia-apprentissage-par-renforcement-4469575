@@ -12,28 +12,19 @@ Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pou
 
 ## Branches
 
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
+Le code de cette formation est contenu dans un seul projet. Il s'agit d'une application d'apprentissage par renforcement pour résoudre le problème du voyageur du commerce. Tout le code du projet est dans la branche main.  
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
-
+1. Pour utiliser ces fichiers d’exemples, vous avez besoin de : 
+   - Un environnement virtuel Python dans lequel vous devez installer Numpy. 
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree.
+3. Pour exécuter l'application, lancez le script Python du fichier main.py
 
 ### Formateur
 
-**Nom du formateur** 
+**Madjid Khichane** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
-
-[1]: # (End of FR-Instruction ###############################################################################################)
+ 
