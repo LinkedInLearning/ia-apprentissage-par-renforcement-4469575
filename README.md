@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'apprentissage par renforcement`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url] 
+![L'apprentissage par renforcement][lil-thumbnail-url] 
 
 Après avoir introduit quelques notions fondamentales sur les algorithmes d’apprentissage par renforcement, nous allons développer étape par étape toute une application d’apprentissage par renforcement pour résoudre le problème du voyageur de commerce.
 
