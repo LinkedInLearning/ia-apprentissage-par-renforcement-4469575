@@ -6,11 +6,6 @@ Ce dossier Repository est lié au cours `L’intelligence artificielle et l’ap
 
 Après avoir introduit quelques notions fondamentales sur les algorithmes d’apprentissage par renforcement, nous allons développer étape par étape toute une application d’apprentissage par renforcement pour résoudre le problème du voyageur de commerce.
 
-
-## Branches
-
-Le code de cette formation est contenu dans un seul projet. Il s'agit d'une application d'apprentissage par renforcement pour résoudre le problème du voyageur du commerce. Tout le code du projet est dans la branche main.  
-
 ## Installation
 
 1. Pour utiliser ces fichiers d’exemples, vous avez besoin d'un environnement virtuel Python dans lequel vous devez installer Numpy. 
