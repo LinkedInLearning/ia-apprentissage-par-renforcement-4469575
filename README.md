@@ -1,6 +1,6 @@
-# Nom final de la formation
+# L’intelligence artificielle et l’apprentissage par renforcement
 
-Ce dossier Repository est lié au cours `L'apprentissage par renforcement`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L’intelligence artificielle et l’apprentissage par renforcement`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![L'apprentissage par renforcement][lil-thumbnail-url] 
 
@@ -13,8 +13,7 @@ Le code de cette formation est contenu dans un seul projet. Il s'agit d'une appl
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exemples, vous avez besoin de : 
-   - Un environnement virtuel Python dans lequel vous devez installer Numpy. 
+1. Pour utiliser ces fichiers d’exemples, vous avez besoin d'un environnement virtuel Python dans lequel vous devez installer Numpy. 
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree.
 3. Pour exécuter l'application, lancez le script Python du fichier main.py
 
