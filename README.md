@@ -19,3 +19,10 @@ Après avoir introduit quelques notions fondamentales sur les algorithmes d’ap
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
  
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+[lil-course-url]: https://www.linkedin.com/learning/l-intelligence-artificielle-et-l-apprentissage-par-renforcement
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFvWiBrkj_-bQ/learning-public-crop_675_1200/0/1704887895265?e=2147483647&v=beta&t=SfPLFTb8EXmfgqc9d5r2F3H1U91hSYfqyx4vbQ0gKF0
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
+
+[1]: # (End of FR-Instruction ###############################################################################################)
